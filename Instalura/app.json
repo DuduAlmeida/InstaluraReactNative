@@ -1,0 +1,12 @@
+{
+  "name": "Instalura",
+  "displayName": "Instalura",
+  "expo": {
+    "name": "Instalura",
+    "slug": "Instalura",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
